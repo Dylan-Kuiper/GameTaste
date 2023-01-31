@@ -18,6 +18,3 @@ GameTaste is a user-friendly game review project built using a custom framework,
 - Use markdown to style your reviews
 - Home page; currently trending games
 - Review feed
-
-## Installation
-
